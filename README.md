@@ -12,6 +12,8 @@ A responsive web application built using **React.js**, **Vite**, and **Tailwind 
 - Vite
 - Tailwind CSS
 - JavaScript (ES6+)
+- State Management
+- API Integration
 - Responsive Design
 
 ## 💡 Features
@@ -21,3 +23,4 @@ A responsive web application built using **React.js**, **Vite**, and **Tailwind 
 - Clean and modular React components
 - Tailwind CSS for consistent and scalable styling
 
+Project developed for **U Group of Companies**
